@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(232, 173, 250);
+}
+
+.flexbox-container1 {
+    display: flex;
+    align-items: center;
+    background-color: rgb(165, 245, 221);
+    font-family: 'Ms Madi', cursive, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+    height: 70vh;
+    margin: 5%;
+}
+
+.sabores {
+    color: rgb(49, 2, 77);
+    font-family: 'Bebas Neue', cursive, verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px;
+    font-size: 40px;
+}
+
+h1 {
+    color: black
+}
+
+h2 {
+    color: rgb(59, 13, 77);
+    font-family: 'Bebas Neue', cursive, verdana, Geneva, Tahoma, sans-serif;
+    font-size: 75px;
+    margin: 1%;
+}
+
+h3 {
+    color: rgb(165, 245, 221);
+    font-family: 'Bebas Neue', cursive, verdana, Geneva, Tahoma, sans-serif;
+    font-size: 65px;
+}
+
+.PrimerParrafo {
+    color: white;
+    font-size: 40px;
+    font-family: 'Caveat', cursive;;
+}
+
+.productos {
+    border-radius: 50%;
+    border-color: white;
+    border-style: groove;
+    padding: 5px;
+    margin: 10px;
+}
+
+.contenedor-de-productos {
+    display: flex;
+}
+
+.redes {
+    display: flex;
+}
+
+.redesimg {
+    display: flex;
+    padding: 5px;
+    margin: 10px;
+}
